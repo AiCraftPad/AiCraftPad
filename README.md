@@ -1,4 +1,4 @@
-<p align="center"><img src="ai-craft-pad-cover.svg" alt="AI Craft Pad — practical software" width="100%"></p>
+<p align="center"><img src="ai-craft-pad-banner.png" alt="AI Craft Pad — practical software" width="100%"></p>
 
 <h1 align="center">AI Craft Pad</h1>
 <p align="center">Practical software. Clear results.</p>
